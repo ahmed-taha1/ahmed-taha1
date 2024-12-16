@@ -64,5 +64,6 @@
   <br/>
   <img height="50" src="https://skillicons.dev/icons?i=linux" alt="Linux">&nbsp;&nbsp;
   <img height="50" src="https://skillicons.dev/icons?i=figma" alt="Figma">&nbsp;&nbsp;
+  <img height="50" src="https://skillicons.dev/icons?i=postman" alt="Postman">&nbsp;&nbsp;
   <br />
 </div>
