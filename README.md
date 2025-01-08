@@ -4,13 +4,13 @@
   <img src="https://komarev.com/ghpvc/?username=ahmed-taha1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtaha" />
 </div>
 
-# Hey, I'm [Ahmed Taha!](https://www.linkedin.com/in/ahmed-taha-151820233/) 
+# Hey, I'm [Ahmed Taha!](https://www.linkedin.com/in/ahmed-taha1/) 
 
 <div align="center">
   <a href="https://twitter.com/AhmedTaha011202">
     <img alt="Ahmed | Twitter" width="50px" src="https://skillicons.dev/icons?i=twitter" draggable="false" />&nbsp;&nbsp;
   </a>
-  <a href="https://www.linkedin.com/in/ahmed-taha-151820233/">
+  <a href="https://www.linkedin.com/in/ahmed-taha1/">
     <img alt="Ahmed's LinkdeIN" width="50px" src="https://skillicons.dev/icons?i=linkedin" draggable="false" />&nbsp;&nbsp;
   </a>
   <a href="https://www.facebook.com/AhmedTaha011">
