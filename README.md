@@ -29,8 +29,9 @@
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About Me
 
-- I am a senior student at the **Faculty of Computers and Artificial Intelligence, Cairo University**
+- I am a Fresh Grad, Graduated from **Faculty of Computers and Artificial Intelligence, Cairo University**.
 - A passionate Software Engineer dedicated to creating innovative software solutions with high performance and high scalability.
+- Specialized at back-end development.
 - I possess strong problem-solving skills.
 
 # 🧰 My Skills
